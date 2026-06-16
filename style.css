@@ -36,11 +36,14 @@ nav a {
 
 /* HERO */
 .hero {
+  .hero {
   height: 100vh;
   display: flex;
   align-items: center;
   padding: 0 50px;
-  background: #ffffff;
+
+  /* minimalistyczne tło pod planery */
+  background: linear-gradient(135deg, #f8f8f8, #ffffff);
 }
 
 .hero-content {
