@@ -51,6 +51,12 @@ nav a:hover {
   align-items: center;
   padding: 0 50px;
 
+  /* planner / organizacja życia background */
+  background: 
+    linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),
+    url("https://images.unsplash.com/photo-1553028826-f4804a6dba3b") center/cover no-repeat;
+}
+
   /* ✔ minimalistyczne tło premium */
   background: linear-gradient(135deg, #f8f8f8, #ffffff);
 }
